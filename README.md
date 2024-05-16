@@ -43,6 +43,5 @@ Feel free to modify the code and adapt it to your needs.
 
 ## Acknowledgments
 
-- This application was developed by EL Rowad.
 - The code utilizes the scikit-learn, pandas, numpy, seaborn, and matplotlib libraries.
 - The K-Means clustering algorithm is based on the scikit-learn implementation.
